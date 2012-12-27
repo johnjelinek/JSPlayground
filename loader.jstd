@@ -1,0 +1,5 @@
+load:
+  - src/*.js
+
+test:
+  - src-test/LoaderTest.js
